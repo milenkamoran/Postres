@@ -1,0 +1,44 @@
+body{
+    background-image: url(fondito.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.inicio{
+    border: 5px dashed rgb(241, 195, 108);
+    background-color: rgb(250, 234, 141);
+    width: 790px;
+    height: 150px;
+    margin: 10px auto;
+    padding: 5px auto;
+        
+    }
+    
+    .titulo1{
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .titulo2{
+        text-align: center;
+    }
+    .subtitulo{
+        text-align: center;
+    }
+    .preguntas{
+        border: 5px dashed pink;
+        background-color: rgb(248, 218, 223);
+        padding-left: 50px;
+        padding-top: 10px;
+        width: 550px;
+        height: 420px;
+        margin: 50px auto;
+    }
+    .imagen1{
+        width: 180px;
+        height: 180px;
+        margin-left: 150px;
+    }
+    
